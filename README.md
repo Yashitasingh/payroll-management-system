@@ -13,12 +13,12 @@ The project was developed using XAMPP bundle as the development environment.
     - HTML/CSS/JS: Interactive user-friendly website design
 
 ### Demo
-A working demo can be visited at:
+A working demo can be visited at: http://unipayrollmanagementsystem.liveblog365.com
 
 Use demo id and password for acces: -
 
-    id: 
+    id: admin
 
-    pass: 
+    pass: admin123
 
 
