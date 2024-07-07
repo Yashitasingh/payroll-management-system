@@ -1,6 +1,8 @@
 # Payroll Management System
 
-**Learning Project: DBMS**
+**Learning Project: DBMS** [DOCX](https://github.com/Yashitasingh/payroll-management-system/raw/main/dbms.docx)
+
+
 
 This project automates the calculation of monthly and quarterly compensations based on active working hours. The system ensures efficiency in payroll management, and reduces manual effort, consequently reducing errors.
 
@@ -13,6 +15,11 @@ The project was developed using XAMPP bundle as the development environment.
 
 
 ### Demo
+
+
+<img src="ss/1.png" alt="demo ss" width="50%"></img>
+
+
 A working demo can be visited at: http://unipayrollmanagementsystem.liveblog365.com
 
 Use demo id and password for acces: -
