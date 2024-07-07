@@ -17,8 +17,8 @@ A working demo can be visited at: http://unipayrollmanagementsystem.liveblog365.
 
 Use demo id and password for acces: -
 
-    id: admin
+    id: test
 
-    pass: admin123
+    pass: test123
 
 
